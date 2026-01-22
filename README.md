@@ -13,7 +13,7 @@ This is the landing repo for the MA5755 course (Data Analysis & Visualization in
 
 ## **References: Textbook**
    * ESL: Hastie, T., Tibshirani, R., Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference and Prediction. Springer. [Free e-copy](https://hastie.su.domains/ElemStatLearn)
-   * Shalev-Shwartz, S., & Ben-David, S. (2014). Understanding machine learning: From theory to algorithms. Cambridge University Press. [Ecopy for self use only](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+   * Shalev-Shwartz, S., & Ben-David, S. (2014). Understanding machine learning: From theory to algorithms. Cambridge University Press. [E-copy for self use only](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 ## **References: Python**
    * Python official tutorial (if you are new to _Python_ but not to _programming_) https://docs.python.org/3/tutorial/index.html (Go through Chapters 3, 4, and 5)
