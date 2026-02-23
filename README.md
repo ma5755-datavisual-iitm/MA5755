@@ -11,7 +11,7 @@ This is the landing repo for the MA5755 course (Data Analysis & Visualization in
 | Assignment-1 | Introduction and Basic Visualization             | [HW-1](https://github.com/ma5755-datavisual-iitm/HW1) |   [Accept HW-1](https://classroom.github.com/a/RXjrzloF)
 | Assignment-2 | Geometry, Loss, and Structure in Real Data             | [HW-2](https://github.com/ma5755-datavisual-iitm/HW2) |   [Accept HW-2](https://classroom.github.com/a/warssJq5)
 | Assignment-3 | Distance Geometry and K-means Clustering            | [HW-3](https://github.com/ma5755-datavisual-iitm/HW3) |   [Accept HW-3](https://classroom.github.com/a/5CHchYHg)
-| Assignment-4 | Probabilistic Clustering and Gaussian Mixture Models            | [HW-4]() |   [Accept HW-4]()
+| Assignment-4 | Probabilistic Clustering and Gaussian Mixture Models            | [HW-4](https://github.com/ma5755-datavisual-iitm/HW4) |   [Accept HW-4](https://classroom.github.com/a/cXW-Ff37)
 
 
 ## **References: Textbook**
