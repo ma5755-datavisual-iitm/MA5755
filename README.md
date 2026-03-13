@@ -14,7 +14,7 @@ This is the landing repo for the MA5755 course (Data Analysis & Visualization in
 | Assignment-4 (in-class-1)| Probabilistic Clustering and Gaussian Mixture Models            | [HW-4](https://github.com/ma5755-datavisual-iitm/HW4) |   [Accept HW-4](https://classroom.github.com/a/cXW-Ff37)
 | Assignment-5 | Hierarchical Clustering, DBSCAN, and Cluster Evaluation            | [HW-5](https://github.com/ma5755-datavisual-iitm/HW5) |   [Accept HW-5](https://classroom.github.com/a/d-wDt7_R)
 | Assignment-6 (quiz-1) | Principal Components Analysis and Kernel PCA            | |
-
+| Final Project-1 |    Initial Report      | [Init-Report](https://github.com/ma5755-datavisual-iitm/FinalProject_InitialReport)|[Accept Init-Report](https://classroom.github.com/a/rqRVRpFd)
 
 ## **References: Textbook**
    * ESL: Hastie, T., Tibshirani, R., Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference and Prediction. Springer. [Free e-copy](https://hastie.su.domains/ElemStatLearn)
