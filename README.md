@@ -18,6 +18,7 @@ This is the landing repo for the MA5755 course (Data Analysis & Visualization in
 | Assignment-6 (in-class-2) |    PCA, Kernel PCA, t-SNE, and UMAP      |[HW-6](https://github.com/ma5755-datavisual-iitm/HW6)| [Accept HW-6](https://classroom.github.com/a/2CBv8-Hl)
 | Quiz-2 | Linear regression with model selection and regularization            | [Quiz-2](https://github.com/ma5755-datavisual-iitm/MA5755/blob/main/Quizzes/quiz2_withSolns.pdf) |
 | Assignment-7 (in-class-3 and HW-4) |   Bayesian, Nonparametric Regression, Gaussian Processes      |[HW-7](https://github.com/ma5755-datavisual-iitm/HW7)| [Accept HW-7](https://classroom.github.com/a/cnZ5oE-n)
+| Quiz-3 | Classification and Support Vector Machines           | [Quiz-3]()|
 
 ## **References: Textbook**
    * ESL: Hastie, T., Tibshirani, R., Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference and Prediction. Springer. [Free e-copy](https://hastie.su.domains/ElemStatLearn)
