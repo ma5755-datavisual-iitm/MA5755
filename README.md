@@ -22,7 +22,7 @@ This is the landing repo for the MA5755 course (Data Analysis & Visualization in
 | Assignment-8 | Tree-based Methods           | [HW-8](https://github.com/ma5755-datavisual-iitm/HW8)| [Accept HW-8](https://classroom.github.com/a/dSGHAMx9)
 | Assignment-9 (in-class-4) | SQL           | [HW-9](https://github.com/ma5755-datavisual-iitm/HW-9)| [Accept HW-9](https://classroom.github.com/a/GCeWrKVm)
 | Quiz-4 | Neural Netwroks           | [Quiz-4](https://github.com/ma5755-datavisual-iitm/MA5755/blob/main/Quizzes/quiz4_withSolns.pdf)|
-
+| Final Project-2 |    Final Report      | [Final-Report](https://github.com/ma5755-datavisual-iitm/MA5755/blob/main/FinalProjects/ProjectDetails_MA5755.pdf)|[Accept Final-Report](https://classroom.github.com/a/5GgZyC9i)
 
 ## **References: Textbook**
    * ESL: Hastie, T., Tibshirani, R., Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference and Prediction. Springer. [Free e-copy](https://hastie.su.domains/ElemStatLearn)
